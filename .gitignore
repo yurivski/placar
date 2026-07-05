@@ -1,0 +1,7 @@
+dados/
+*.egg-info/
+uv.lock
+
+__pycache__/
+*.pyc
+.venv/
