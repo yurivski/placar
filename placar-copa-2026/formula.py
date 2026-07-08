@@ -1,25 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-- MAE 0.995 gol por time
-- 70.7% de acerto de resultado
-- 19.5% de placar exato
-
-Hiperparametros do grid search:
-  SUAVIZACAO = 0.5   (meio jogo ficticio "na media" por time)
-  DECAIMENTO = 0.92  (jogo de k dias atras pesa 0.92^k)
-
-M = soma de gols da amostra / jogos / 2
-ataque(T) = gols feitos por jogo (ponderado) / M
-defesa(T) = gols sofridos por jogo (ponderado) / M
-gols esperados de A = M * ataque(A) * defesa(B)   [cruzado!]
-sorte (opcional) = multiplicador aleatorio em [0.525, 1.475]
-"""
-
 import csv
 import random
 from datetime import date
 
-# hiperparametros validados: se mudar, rode o backtest de novo antes
+# hiperparametros
 SUAVIZACAO = 0.5
 DECAIMENTO = 0.92
 
@@ -27,7 +10,7 @@ DECAIMENTO = 0.92
 SORTE_MINIMA = 0.525
 SORTE_MAXIMA = 1.475
 
-# Camada de dados: leitura e escrita do CSV
+# Leitura e escrita do CSV
 def carregar_jogos(caminho_do_csv):
     """Le o CSV e devolve lista de tuplas (data, time_a, gols_a, gols_b, time_b)."""
     jogos = []
