@@ -30,19 +30,19 @@
 ║   ││ └───── Meu palpite: 2x1 pra Colômbia nos pênaltis                                  ║
 ║   ││                     ---                                                            ║
 ║   ││                                                                                    ║
-║   │└ Previsão Colômbia x Argentina (com dados do dia 06-07 às 20h58):                   ║
-║   │  ----------------------------- ----------------------------------                   ║
-║   │                                                                                     ║
-║   │     Vitoria Colombia: 18.9%                                                         ║
-║   │     Empate: 78.5%                                                                   ║
-║   │     Vitoria Argentina: 2.6%                                                         ║
-║   │     Placares mais provaveis:                                                        ║
-║   │       1 x 1  (77.9%)                                                                ║
-║   │       1 x 0  (18.9%)                                                                ║
-║   │       0 x 1  (2.6%)                                                                 ║
-║   │       0 x 0  (0.6%)                                                                 ║
-║   │                                                                                     ║
-║   │       Meu palpite: 2x1 pra Colômbia também nos pênaltis                             ║
+║   ├┼ Previsão Colômbia x Argentina (com dados do dia 06-07 às 20h58):                   ║
+║   ││ ----------------------------- ----------------------------------                   ║
+║   ││                                                                                    ║
+║   │├─── Vitoria Colombia: 18.9%                                                         ║
+║   │├─── Empate: 78.5%                                                                   ║
+║   │├─── Vitoria Argentina: 2.6%                                                         ║
+║   │├─── Placares mais provaveis:                                                        ║
+║   ││      1 x 1  (77.9%)                                                                ║
+║   ││      1 x 0  (18.9%)                                                                ║
+║   ││      0 x 1  (2.6%)                                                                 ║
+║   ││      0 x 0  (0.6%)                                                                 ║
+║   ││                                                                                    ║
+║   │└───── Meu palpite: 2x1 pra Colômbia também nos pênaltis                             ║
 ║   │                    ---                                                              ║
 ║   │                                                                                     ║
 ║   └ Previsão da Final:                                                                  ║
