@@ -11,50 +11,50 @@
 ║                                                                                         ║
 ║ Atualização (06-07-2026 20h58):                                                         ║
 ║ =========== -------------------                                                         ║
-║                                                                                         ║
-║     ↳ México perdeu por 3x2.                                                            ║
-║     ↳ Espanha ganhou de Portugal como previsto de maiores chances (1x0).                ║
-║                                                                                         ║
-║     Previsão Suiça x Colômbia:                                                          ║
-║     --------------------------                                                          ║
-║                                                                                         ║
-║         Vitoria Suica: 25.9%                                                            ║
-║         Empate: 53.0%                                                                   ║
-║         Vitoria Colombia: 21.1%                                                         ║
-║         Placares mais provaveis:                                                        ║
-║             1 x 1  (36.3%)                                                              ║
-║             1 x 0  (25.9%)                                                              ║
-║             0 x 1  (21.1%)                                                              ║
-║             0 x 0  (16.7%)                                                              ║
-║                                                                                         ║
-║             Meu palpite: 2x1 pra Colômbia nos pênaltis                                  ║
-║                          ---                                                            ║
-║                                                                                         ║
-║     Previsão Colômbia x Argentina (com dados do dia 06-07 às 20h58):                    ║
-║     ----------------------------- ----------------------------------                    ║
-║                                                                                         ║
-║         Vitoria Colombia: 18.9%                                                         ║
-║         Empate: 78.5%                                                                   ║
-║         Vitoria Argentina: 2.6%                                                         ║
-║         Placares mais provaveis:                                                        ║
-║           1 x 1  (77.9%)                                                                ║
-║           1 x 0  (18.9%)                                                                ║
-║           0 x 1  (2.6%)                                                                 ║
-║           0 x 0  (0.6%)                                                                 ║
-║                                                                                         ║
-║           Meu palpite: 2x1 pra Colômbia também nos pênaltis                             ║
-║                        ---                                                              ║
-║                                                                                         ║
-║     Previsão da Final:                                                                  ║
+║   │ │                                                                                   ║
+║   │ ├ México perdeu por 3x2.                                                            ║
+║   │ └ Espanha ganhou de Portugal como previsto de maiores chances (1x0).                ║
+║   │                                                                                     ║
+║   ├ Previsão Suiça x Colômbia:                                                          ║
+║   │ --------------------------                                                          ║
+║   │                                                                                     ║
+║   ├┬─┬┬ Vitoria Suica: 25.9%                                                            ║
+║   ││ │├ Empate: 53.0%                                                                   ║
+║   ││ │├ Vitoria Colombia: 21.1%                                                         ║
+║   ││ │└ Placares mais provaveis:                                                        ║
+║   ││ │      1 x 1  (36.3%)                                                              ║
+║   ││ │      1 x 0  (25.9%)                                                              ║
+║   ││ │      0 x 1  (21.1%)                                                              ║
+║   ││ │      0 x 0  (16.7%)                                                              ║
+║   ││ │                                                                                  ║
+║   ││ └───── Meu palpite: 2x1 pra Colômbia nos pênaltis                                  ║
+║   ││                     ---                                                            ║
+║   ││                                                                                    ║
+║   │└ Previsão Colômbia x Argentina (com dados do dia 06-07 às 20h58):                   ║
+║   │  ----------------------------- ----------------------------------                   ║
+║   │                                                                                     ║
+║   │     Vitoria Colombia: 18.9%                                                         ║
+║   │     Empate: 78.5%                                                                   ║
+║   │     Vitoria Argentina: 2.6%                                                         ║
+║   │     Placares mais provaveis:                                                        ║
+║   │       1 x 1  (77.9%)                                                                ║
+║   │       1 x 0  (18.9%)                                                                ║
+║   │       0 x 1  (2.6%)                                                                 ║
+║   │       0 x 0  (0.6%)                                                                 ║
+║   │                                                                                     ║
+║   │       Meu palpite: 2x1 pra Colômbia também nos pênaltis                             ║
+║   │                    ---                                                              ║
+║   │                                                                                     ║
+║   └ Previsão da Final:                                                                  ║
 ║     ==================                                                                  ║
-║                                                                                         ║
-║         Espanha x Noruega - os próximos jogos podem influenciar no resultado de hoje:   ║
-║         -----------------   ---------------------------------------------------------   ║
-║                                                                                         ║
-║         Vitoria Espanha: 100.0%                                                         ║
-║         Empate: 0.0%                                                                    ║
-║         Vitoria Noruega: 0.0%                                                           ║
-║         Placares mais provaveis:                                                        ║
+║      │                                                                                  ║
+║      └┬ Espanha x Noruega - os próximos jogos podem influenciar no resultado de hoje:   ║
+║       │ -----------------   ---------------------------------------------------------   ║
+║       │                                                                                 ║
+║       ├ Vitoria Espanha: 100.0%                                                         ║
+║       ├ Empate: 0.0%                                                                    ║
+║       ├ Vitoria Noruega: 0.0%                                                           ║
+║       └ Placares mais provaveis:                                                        ║
 ║           2 x 0  (54.0%)                                                                ║
 ║           1 x 0  (25.4%)                                                                ║
 ║           3 x 0  (20.6%)                                                                ║
@@ -63,8 +63,8 @@
 ║                                                                                         ║
 ║ Meu palpite para a final (05-07-2026 20h00):                                            ║
 ║ ======================== -------------------                                            ║
-║                                                                                         ║
-║     México x Espanha                                                                    ║
+║   │                                                                                     ║
+║   └ México x Espanha                                                                    ║
 ║                                                                                         ║
 ║                                                                                         ║
 ╠═════════════════════════════════════════════════════════════════════════════════════════╣
